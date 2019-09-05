@@ -19,4 +19,5 @@ public class Config {
         InputStream input = new FileInputStream("./config/config.properties");
         properties.load(input);
     }
+    //prueba de commit
 }
